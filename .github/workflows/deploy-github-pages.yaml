@@ -40,10 +40,10 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: storybook-static
-          path: storybook-static
+          path: ./storybook-static
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
           branch: gh-pages # The branch to deploy to
-          folder: storybook-static # The folder containing the built Storybook
+          folder: ./storybook-static # The folder containing the built Storybook
