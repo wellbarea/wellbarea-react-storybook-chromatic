@@ -189,14 +189,6 @@ Addons configurados:
 - **@storybook/addon-interactions**: Testes de interação
 - **@storybook/addon-onboarding**: Guia de introdução
 
-## 🚀 Próximos Passos
-
-- [ ] Implementar mais componentes do design system
-- [ ] Adicionar testes unitários com Jest/Testing Library
-- [ ] Explorar addons avançados do Storybook
-- [ ] Configurar design tokens
-- [ ] Implementar acessibilidade (a11y)
-
 ## 📚 Recursos Úteis
 
 - [Documentação do Storybook](https://storybook.js.org/docs)
